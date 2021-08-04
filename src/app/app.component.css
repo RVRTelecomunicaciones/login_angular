@@ -1,0 +1,48 @@
+
+#main-card{
+  height: 100%;
+}
+#login-form-wrapper{
+  width: 100%;
+  max-width: 20rem;
+  background: white;
+  border-radius: 1rem!important;
+}
+.login-form {
+}
+.card-login{
+  padding: 1.5rem;
+  padding-bottom: 0;
+}
+.card-header{
+  margin-top: 1rem;
+  text-align: center;
+}
+
+.logo-allemant{
+  width: 5rem;
+}
+.login-form-margin {
+  margin-bottom: 16px;
+  border-radius: 10px;
+}
+
+.login-form-forgot {
+  float: right;
+}
+
+.login-form-button {
+  width: 100%;
+}
+
+.ant-card {
+  border-radius: 12px;
+}
+.nz-card {
+  display: block;
+}
+
+
+.ant-input-affix-wrapper{
+  border-radius: 10px;
+}
